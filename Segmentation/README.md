@@ -35,11 +35,3 @@ displayed in the terminal.
 python app.py
 ```
 
-## Screenshot
-
-![Screenshot of app](assets/screenshot.png)
-
-## Acknowledgements
-
-Many thanks to Emmanuelle Gouillart for the image classifier training code.
-
